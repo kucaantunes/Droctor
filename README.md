@@ -40,3 +40,8 @@ The AI mechanisms of the virtual elements can be used to control drones and also
 Application developed with serveral technologies like PHP and Python Flask
 
 
+To create the database use the 127_0_0_1.sql
+
+Requires an application web server to be running
+
+
